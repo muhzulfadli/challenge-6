@@ -1,0 +1,18 @@
+.background {
+    width: 70vw;
+    height: 100vh;
+  }
+
+  .logo {
+    border-radius: 5px;
+  }
+  
+  .button {
+    background-color: #0D28A6;
+    height: 48px;
+    margin-bottom: 16px;
+  }
+  
+  .rightSide {
+    margin: auto;
+  }
